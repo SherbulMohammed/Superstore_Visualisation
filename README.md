@@ -1,2 +1,2 @@
 # Superstore Visualisation
-Used Excel and Power BI to visualise a superstore dataset - PivotTables, Pivot Charts and Dashboards
+The data set used in this project is from the kaggle website: 
