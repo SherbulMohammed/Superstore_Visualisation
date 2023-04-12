@@ -37,3 +37,17 @@ Office Supplies can still be seen as a substantial contributer to overall sales 
 In the Furniture category, the sub-categories have vary sales performance between them. Chairs and Tables have generated the highest sales compared to Furnishings and Bookcases. 
 
 **Sales Trend**
+
+![Sales change](https://user-images.githubusercontent.com/129470579/231318491-156bc23a-8489-4c07-b825-1dc2427206b7.png)
+
+Technology category: The sales of Technology category decreased by 7% in 2016 but had a major increase by 37% in 2017 and 21% in 2018. This indicates a decline in sales in 2016 which was  followed by strong sales growth in 2017 and moderate sales growth in 2018.
+
+Office Supplies category: The sales of Office Supplies category decreased by 11% in 2016 but like the Technology category sales increased by 37% in 2017 and 32% in 2018. This indicates a significant comeback in sales in 2017 which is followed by a sustained sales growth of 32% in 2018.
+
+Furniture category: The sales of Furniture category decreased by 11% in 2016 but then increased by 19% in 2017 and 8% in 2018. This suggests a decline in sales in 2016 followed by a rebound and then decline in sales growth.
+
+**Sales - Top 10 States, Cities and Customers for each Product Category**
+
+Technology
+
+
