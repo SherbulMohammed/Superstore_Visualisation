@@ -50,4 +50,8 @@ Furniture category: The sales of Furniture category decreased by 11% in 2016 but
 
 Technology
 
+![Technology](https://user-images.githubusercontent.com/129470579/231320818-0fed5b4a-9c79-415b-a277-c377cfb0c3df.png)
+
+Office Supplies
+
 
