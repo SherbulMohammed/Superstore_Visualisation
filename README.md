@@ -54,4 +54,9 @@ Technology
 
 Office Supplies
 
+![Office Supplies](https://user-images.githubusercontent.com/129470579/231321360-b668655b-2b9a-4232-bad7-2ccce4f2270d.png)
+
+Furniture
+
+
 
