@@ -26,3 +26,14 @@ Product Category Performance: Among the three product categories, the technology
 
 Yearly Sales Trend: The sales for each product category fluctuated year-to-year, with some years showing higher growth than others. For instance, in 2017, all three product categories experienced a significant leap in sales compared to the previous years.
 
+![Sales graph 2](https://user-images.githubusercontent.com/129470579/231314896-1dca6792-9fbf-41ad-97d0-92071f4ebd32.png)
+
+As mentioned, Technology is the highest sales-generated category with total sales of $827,456, followed by Furniture with total sales of $728,659 and Office Supplies with total sales of $705,422. Within the Technology category, Phones and Accessories are significant contributers for sales performance with sales of $327,782 and $164,187 respectively. This indicates a strong demand for both which mean they should be prioritised in sale strategies.
+
+Office Supplies can still be seen as a substantial contributer to overall sales generated but there will be a need for further market analysis of the low performing sub-categories: Labels at $12,348, Paper at $76,828 and Fasteners at $3002. 
+
+**Market Analysis** - There has been a decline in demand for traditional office supplies such as paperwork as this is being transferred to digital platforms.
+
+In the Furniture category, the sub-categories have vary sales performance between them. Chairs and Tables have generated the highest sales compared to Furnishings and Bookcases. 
+
+**Sales Trend**
