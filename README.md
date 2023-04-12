@@ -48,15 +48,32 @@ Furniture category: The sales of Furniture category decreased by 11% in 2016 but
 
 **Sales - Top 10 States, Cities and Customers for each Product Category**
 
-Technology
+**Technology**
 
 ![Technology](https://user-images.githubusercontent.com/129470579/231320818-0fed5b4a-9c79-415b-a277-c377cfb0c3df.png)
 
-Office Supplies
+**Office Supplies**
 
 ![Office Supplies](https://user-images.githubusercontent.com/129470579/231321360-b668655b-2b9a-4232-bad7-2ccce4f2270d.png)
 
-Furniture
+**Furniture**
 
+![Furnitures](https://user-images.githubusercontent.com/129470579/231321473-6b258fa5-7d66-48cb-9b1f-782144681337.png)
 
+**Technology**
 
+- California has the highest total sales in the Technology category, with $154,684. This indicates that California is a significant market for Technology products, as there is a high demand for these products.
+- New York comes in second with total sales of $126,903 which suggests there is a significant market for technology products which is then followed by Texas with total sales of $64,656.
+- The Grand Total sales for the Technology product category is $604,043. The total sales for the top three states in this category is $346,243. California, New York and Texas contribute for more than 50% of sales in the top 10 states for the product category.
+- Few factors could be bought up to give an explanation for these figures:
+- California, New York and Texas are the most populated states in the US which would mean a higher customer population meaning a higher demand for tech products
+- Urban areas in California (Silicon Valley) and New York are known for having a high concentration of tech development, companies and tech startups. This would inevitably create an environment where there is more favor towards tech products which results in higher sales.
+
+**Office Supplies**
+
+- Same for the Technology category, California, New York and Texas are the states with the highest sales produced. Again this comes down to the fact all three states have a large population meaning large markets and large demand. This would result in higher sale volumes for office supplies
+- New York City, Los Angeles and San Francisco are cities known for having a large concentration of business hubs, corporate offices and headquarted corporations which would result in needing steady supply of office supplied products.
+
+**Furniture**
+
+- As with the other two categories, California, New York and Texas are the major contributers for sales in the Furniture category.
