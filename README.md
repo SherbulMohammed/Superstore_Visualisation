@@ -18,4 +18,10 @@ Furniture: *Bookcases, Chairs, Furnishings, Tables*
 
 Office Supplies: *Appliances, Art, Binders, Envelopes, Fasteners, Labels, Paper, Storage, Supplies*
 
+![Sales graph](https://user-images.githubusercontent.com/129470579/231311996-c381138f-ecf2-4fb1-be13-64e2de72c85e.png)
 
+Sale Performance: The total sales for all products increased from $479,856 in 2015 to $722,052 in 2018 which indicates a positive trend in sale performance. 
+
+Product Category Performance: Among the three product categories, the technology category consistently generated the highest sales, followed by furnitures and office supplies. However, it can be said that all three categories showed overall growth in sales over the four-year period.
+
+Yearly Sales Trend: 
