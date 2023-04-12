@@ -81,3 +81,4 @@ Furniture category: The sales of Furniture category decreased by 11% in 2016 but
 
 **Dashboard**
 
+![dashboard](https://user-images.githubusercontent.com/129470579/231541824-c9495cfb-0508-477b-bd95-1c75c39c91e4.png)
