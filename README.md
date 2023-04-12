@@ -77,3 +77,7 @@ Furniture category: The sales of Furniture category decreased by 11% in 2016 but
 **Furniture**
 
 - As with the other two categories, California, New York and Texas are the major contributers for sales in the Furniture category.
+- This could be due to the fact that since these states have a huge growing population, there will be a large housing market which will ultimately need a larger volume of furniture supplies.
+
+**Dashboard**
+
